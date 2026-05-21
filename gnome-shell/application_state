@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="redisinsight_redisinsight.desktop" score="3277.625" last-seen="1779342363"/>
+    <application id="google-chrome.desktop" score="17365.515760774135" last-seen="1779356806"/>
+    <application id="gnome-control-center.desktop" score="4" last-seen="1778968906"/>
+    <application id="org.gnome.gedit.desktop" score="246.03284554336136" last-seen="1779353734"/>
+    <application id="org.gnome.eog.desktop" score="5" last-seen="1779302190"/>
+    <application id="libreoffice-calc.desktop" score="13.169946340409743" last-seen="1779354789"/>
+    <application id="org.gnome.Nautilus.desktop" score="49.304738078669715" last-seen="1779356809"/>
+    <application id="code_code.desktop" score="4331.5672819054289" last-seen="1779353739"/>
+    <application id="gcr-viewer.desktop" score="0" last-seen="1778820064"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1779239156"/>
+    <application id="update-manager.desktop" score="0" last-seen="1778819943"/>
+    <application id="org.gnome.Terminal.desktop" score="3608.8189037679558" last-seen="1779356809"/>
+    <application id="postman.desktop" score="249.34173307847595" last-seen="1779348376"/>
+    <application id="firefox_firefox.desktop" score="12.75" last-seen="1778833017"/>
+    <application id="com.slack.Slack.desktop" score="917.05078125" last-seen="1779356532"/>
+    <application id="mysql-workbench-community_mysql-workbench-community.desktop" score="3294.6373408641457" last-seen="1779356139"/>
+  </context>
+</application-state>
